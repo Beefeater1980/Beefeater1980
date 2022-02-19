@@ -1,5 +1,5 @@
 Hi, I’m @Beefeater1980.
 
-I am working my way through CS50 and also managing the website for a business that I co-own. 
+I am an independent game developer and lawyer based in Hong Kong. 
 
 Feel free to drop me a line on thebeef1980@gmail.com 
